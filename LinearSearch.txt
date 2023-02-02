@@ -1,3 +1,19 @@
-Code for linear search
+public void linearsearch()
+{
+    Code for linear search
+}
+
+public void binarysearch()
+{
+    Code for Binary search
+}
 
 
+switch(choice)
+{
+    case 1:linearsearch();
+            break;
+    case 2:binarysearch();
+            break;
+    default: break;
+}

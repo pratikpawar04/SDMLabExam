@@ -1,19 +1,30 @@
-public void linearsearch()
+import java.util.*;
+
+linear()
 {
-    Code for linear search
+    //code for linear search;
+
 }
 
-public void binarysearch()
+binary()
 {
-    Code for Binary search
+    //code for binary search;
+
 }
 
 
-switch(choice)
+
+main()
 {
-    case 1:linearsearch();
-            break;
-    case 2:binarysearch();
-            break;
-    default: break;
-}
+    //user input for choice
+    enter choice 
+    
+    switch(choice)
+    {
+        case 1: linear();
+                break;
+        case 2: binary();
+                break;
+        default:break;
+    }
+ }

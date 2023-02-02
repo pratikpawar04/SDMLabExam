@@ -12,13 +12,19 @@ binary()
 
 }
 
-switch(choice)
+
+
+main()
 {
-    case 1: linear();
-            break;
-    case 2: binary();
-            break;
-    default:break;
-}
-
-
+    //user input for choice
+    enter choice 
+    
+    switch(choice)
+    {
+        case 1: linear();
+                break;
+        case 2: binary();
+                break;
+        default:break;
+    }
+ }

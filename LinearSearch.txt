@@ -1,3 +1,9 @@
-Code for linear search
+import java.util.*;
+
+class linear
+{
+    //code for linear search;
+
+}
 
 

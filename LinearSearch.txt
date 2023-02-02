@@ -1,9 +1,24 @@
 import java.util.*;
 
-class linear
+linear()
 {
     //code for linear search;
 
+}
+
+binary()
+{
+    //code for binary search;
+
+}
+
+switch(choice)
+{
+    case 1: linear();
+            break;
+    case 2: binary();
+            break;
+    default:break;
 }
 
 
